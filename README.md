@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vaishnavi834460
+- 👀 I’m interested in Data science 
+- 🌱 I’m learning Python,sql 
